@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Laser
+  - Enemy
+  - Power Up
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - PowerUP
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 226140565
+    locked: 0
+  - name: Players and Enemies
+    uniqueID: 2033111583
+    locked: 0
+  - name: Powerups
+    uniqueID: 3112352365
+    locked: 0
+  - name: UI
+    uniqueID: 3203281457
+    locked: 0
